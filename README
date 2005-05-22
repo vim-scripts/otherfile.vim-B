@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1289
+
+Press F8 to switch between header and source files, or any other kind of paired files.
+In the present state, handles C/C++/Ada files, but can be (really) easily modified to handle more.
+If no alternate file is found, asks for the file name to create. Press ESC to cancel if you want.
+By default maps <F8> to do the job; you may change this (see the end of file).
